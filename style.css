@@ -1,5 +1,26 @@
 body { 
     background-color: rgb(11, 18, 35);
     color: rgb(192, 22, 53);
+font-family: "Oswald", sans-serif;
+}
 
+header{ 
+    font-size: 50px;
+    border-bottom: double 5px rgb(245, 19, 42);
+    padding: 50px;
+    text-align: center;
+    color: white
+}
+h1 {
+    font-size: 30px;
+}
+p{
+
+ 
+
+
+
+
+    font-family: "Edu NSW ACT Hand Pre", cursive;
+    
 }
